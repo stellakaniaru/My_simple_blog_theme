@@ -1,0 +1,31 @@
+
+header {
+	text-align: center;
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqifw_vc-3hp_9h6y445x5_swcITJXcUUpEf_h93Jltj1RkXoL");
+	background-size: cover;
+	color: white;
+	padding: 0px;
+}
+
+ul {
+	padding: 10px;
+	background: rgba(0,0,0,0.5);
+}
+
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+a {
+	color: white;
+}
+article {
+	margin: 0 auto;
+	max-width: 600px;
+	padding: 20px;
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
